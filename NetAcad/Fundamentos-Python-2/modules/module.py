@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+
 
 """ module.py - an example of a Python module """
 
