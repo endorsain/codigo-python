@@ -18,7 +18,7 @@ def cripRom(txt):
 
 
 def descripRom(crip):
-    global descrip
+    global descripCIP
     for char in crip:
         code = ord(char) - 1
         if code < ord("A"):
